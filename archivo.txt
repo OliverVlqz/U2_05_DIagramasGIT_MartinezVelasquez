@@ -1,2 +1,4 @@
 Primera línea
 Segunda línea
+Cambio 1 de user1
+Cambio 2 de user1
